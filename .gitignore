@@ -1,0 +1,7 @@
+# Python / 结果 / 凭证
+__pycache__/
+.env
+output/*
+!output/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
